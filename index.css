@@ -316,6 +316,11 @@
   gap: var(--dl-space-space-twounits);
   display: flex;
 }
+
+.navbar8-container7.hide {
+  display: none;
+}
+
 .navbar8-container7 {
   top: 100%;
   left: 0px;
