@@ -36,12 +36,6 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.navbar8-link11 {
-  text-decoration: none;
-}
-.navbar8-link31 {
-  text-decoration: none;
-}
 .navbar8-link4-dropdown-trigger {
   gap: 4px;
   cursor: pointer;
@@ -117,7 +111,7 @@
   height: 100vh;
   display: none;
   padding: var(--dl-space-space-twounits);
-  z-index: 100;
+  z-index: 100000;
   position: absolute;
   flex-direction: column;
   justify-content: space-between;
@@ -154,12 +148,6 @@
   display: flex;
   align-self: flex-start;
   flex-direction: column;
-}
-.navbar8-link12 {
-  text-decoration: none;
-}
-.navbar8-link32 {
-  text-decoration: none;
 }
 .navbar8-link4-accordion {
   display: flex;
@@ -353,7 +341,6 @@
   padding: var(--dl-space-space-oneandhalfunits);
   align-self: stretch;
   align-items: center;
-  text-decoration: none;
 }
 .navbar8-page1-image2 {
   width: 30px;
@@ -377,7 +364,6 @@
   padding: var(--dl-space-space-oneandhalfunits);
   align-self: stretch;
   align-items: center;
-  text-decoration: none;
 }
 .navbar8-page2-image2 {
   width: 30px;
@@ -401,7 +387,6 @@
   padding: var(--dl-space-space-oneandhalfunits);
   align-self: stretch;
   align-items: center;
-  text-decoration: none;
 }
 .navbar8-page3-image2 {
   width: 30px;
@@ -425,7 +410,6 @@
   padding: var(--dl-space-space-oneandhalfunits);
   align-self: stretch;
   align-items: center;
-  text-decoration: none;
 }
 .navbar8-page4-image2 {
   width: 30px;
@@ -440,15 +424,6 @@
 .navbar8-page42 {
   font-style: normal;
   font-weight: 600;
-}
-.navbar8-container8 {
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  position: fixed;
-  align-items: flex-start;
-  flex-direction: column;
 }
 .navbar8-fragment10 {
   display: contents;

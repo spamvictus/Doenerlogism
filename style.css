@@ -71,7 +71,6 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: none !important;
 }
 .thq-input {
   color: var(--dl-color-theme-neutral-dark);
