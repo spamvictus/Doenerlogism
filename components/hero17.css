@@ -47,9 +47,6 @@
 .hero17-row-container1 {
   width: 100%;
 }
-.hero17-strip1 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-}
 .hero17-placeholder-image10 {
   width: 400px;
   height: 400px;
@@ -70,15 +67,12 @@
   width: 400px;
   height: 400px;
 }
-.hero17-placeholder-image15 {
-  width: 400px;
-  height: 400px;
-}
 .hero17-row-container2 {
   width: 100%;
 }
-.hero17-strip3 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
+.hero17-placeholder-image15 {
+  width: 400px;
+  height: 400px;
 }
 .hero17-placeholder-image16 {
   width: 400px;
@@ -93,14 +87,6 @@
   height: 400px;
 }
 .hero17-placeholder-image19 {
-  width: 400px;
-  height: 400px;
-}
-.hero17-placeholder-image20 {
-  width: 400px;
-  height: 400px;
-}
-.hero17-placeholder-image21 {
   width: 400px;
   height: 400px;
 }
